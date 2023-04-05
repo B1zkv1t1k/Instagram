@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 800px;
+    height: 40%;
+    margin: 25px;
+    background-color: orange;
+    height: 80vh;
+}
+
+.back {
+    display: flex;
+    height: 25px;
+    margin: 20px;
+    word-spacing: 20px;
+    align-items: center;
+    padding: 0 5px;
+    width: 100%;
+    color: white;
+    background-color: #96c765;
+    text-align: center;
+
+}
+
+
+.back >  p{
+    display: flex;
+    padding: 0 10px;
+    margin-left: 3px;
+    height: 25px;
+    align-items: center;
+    background-color: #d98446;
+}
+
+
+.sub_cont{
+    width: 95%;
+}
